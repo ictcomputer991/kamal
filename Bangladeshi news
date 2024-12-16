@@ -8,14 +8,14 @@ https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HCHtFZY/71-tv.jpg" group-title="(AR) Bangladesi", EkattorTelevision
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
-#EXTINF:-1 https://i.ibb.co.com/WWpCBpS/dbc.png" group-title="(AR) Bangladesi", Dbc News
+#EXTINF:-1 tvg-logo https://i.ibb.co.com/WWpCBpS/dbc.png" group-title="(AR) Bangladesi", Dbc News
 https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 
-#EXTINF:-1 https://i.ibb.co.com/Cmh3WtT/news24.png" group-title="(AR) Bangladesi", News24
+#EXTINF:-1 tvg-logo https://i.ibb.co.com/Cmh3WtT/news24.png" group-title="(AR) Bangladesi", News24
 https://ythls.armelin.one/channel/UCPREnbhKQP-hsVfsfKP-mCw.m3u8
 
-#EXTINF:-1 https://i.ibb.co.com//tQdMQ6zX/rtv.jpg" group-title="(AR) Bangladesi", RTV
+#EXTINF:-1 tvg-logo https://i.ibb.co.com//tQdMQ6zX/rtv.jpg" group-title="(AR) Bangladesi", RTV
 https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 
-#EXTINF:-1 https://i.ibb.co.com/N9n2NPv/download-2.jpg" group-title="(AR) Bangladesi", RTV
+#EXTINF:-1 tvg-logo https://i.ibb.co.com/N9n2NPv/download-2.jpg" group-title="(AR) Bangladesi", RTV
 https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
